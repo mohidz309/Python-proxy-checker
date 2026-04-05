@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+http_https.txt
+socks4.txt
+socks5.txt
